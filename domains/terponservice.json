@@ -1,0 +1,11 @@
+{
+  "description": "Terpon is a dev",
+  "repo": "https://github.com/testerxkz/testerxkz.github.io",
+  "owner": {
+    "username": "testerxkz",
+    "email": "testerx@mail.kz"
+  },
+  "record": {
+    "CNAME": "testerxkz.github.io"
+  }
+}
